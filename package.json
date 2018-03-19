@@ -1,0 +1,19 @@
+{
+  "name": "vue-video-grid",
+  "version": "1.0.0",
+  "description": "A Vue.js component for displaying an iframe video grid while keeping the original aspect ratio",
+  "keywords": [
+    "Vuejs"
+  ],
+  "deprecated": false,
+  "main": "VideoGrid.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateo Marquez",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmmarquez/vue-video-grid"
+  }
+}
